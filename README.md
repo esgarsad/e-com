@@ -13,6 +13,7 @@ Run it from command line by typing "node server.js". This app needs  the front-e
 
 ## Notes about E-commerce back-end
 
+Find a demo video here https://drive.google.com/file/d/18c8Z7-s4QdV6BvuDpSBwekPb9k2Wlr8v/view
 You can also test it with insomnia
 
 ![e-commerce](https://github.com/esgarsad/e-com/blob/main/assets/pictures/e-com.jpg)
